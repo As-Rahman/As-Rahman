@@ -1,6 +1,10 @@
-# 👋 Hi there, I'm Ashrafur Rahman Ador!
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Ashrafur+Rahman+Ador!;A+Web+Developer+from+Bangladesh" alt="Typing SVG"/>
+</div>
 
-I'm a passionate web developer from Bangladesh, currently working from home. I specialize in building dynamic and responsive web applications using modern technologies.
+<!-- Animated Background -->
+![Background Animation](https://raw.githubusercontent.com/ashrafur-rahman-ador/portfolio/master/src/Assets/animated-background.gif)
 
 ## 💻 Technologies & Tools
 
